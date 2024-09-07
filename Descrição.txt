@@ -1,0 +1,1 @@
+O Sistema será desenvolvido de acordo com o tema: Formulários da CAD – Comissão de Avaliação Docente (13º ao 36º mês) + Relatório final da CAD. Com o intuito de facilitar o preenchimento e geração de formularios de avaliação docente da UFERSA (Universidade Federal Rural Do Semi-Árido) referente aos meses já citados, na aplicação também terá a geração de Relatório final da CAD.
